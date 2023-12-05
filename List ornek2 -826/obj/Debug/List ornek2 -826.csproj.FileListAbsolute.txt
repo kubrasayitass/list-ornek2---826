@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\List ornek2 -826\List ornek2 -826\bin\Debug\List ornek2 -826.exe.config
+C:\Users\User\source\repos\List ornek2 -826\List ornek2 -826\bin\Debug\List ornek2 -826.exe
+C:\Users\User\source\repos\List ornek2 -826\List ornek2 -826\bin\Debug\List ornek2 -826.pdb
+C:\Users\User\source\repos\List ornek2 -826\List ornek2 -826\obj\Debug\List ornek2 -826.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\List ornek2 -826\List ornek2 -826\obj\Debug\List ornek2 -826.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\List ornek2 -826\List ornek2 -826\obj\Debug\List_ornek2__826.Form1.resources
+C:\Users\User\source\repos\List ornek2 -826\List ornek2 -826\obj\Debug\List_ornek2__826.Properties.Resources.resources
+C:\Users\User\source\repos\List ornek2 -826\List ornek2 -826\obj\Debug\List ornek2 -826.csproj.GenerateResource.cache
+C:\Users\User\source\repos\List ornek2 -826\List ornek2 -826\obj\Debug\List ornek2 -826.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\List ornek2 -826\List ornek2 -826\obj\Debug\List ornek2 -826.exe
+C:\Users\User\source\repos\List ornek2 -826\List ornek2 -826\obj\Debug\List ornek2 -826.pdb
